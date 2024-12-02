@@ -19,7 +19,7 @@ Navigate to the project directory and build the executable using the ```make``` 
 
 
 
-Usage
+Uses
 ---------------------------------------
 To run the program, simply execute the ./philo binary with the following arguments:
 ```bash
